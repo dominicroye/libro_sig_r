@@ -2,7 +2,7 @@ Datos para acompañar el libro 'Introducción a los SIG con R'
 ================
 
 ### Dominic Royé | Roberto Serrano Notivoli (2019)
-![](CUBIERTA SIG con R.png)
+![](portada_libro_sig_r.png)
 
 
 
