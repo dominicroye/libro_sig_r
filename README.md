@@ -32,7 +32,7 @@ Datos
 
 Todos los datos utilizados en los ejemplos de cada capítulo están disponibles en el repositorio de GitHub accesible a través de las carpetas correspondientes a cada capítulo. El feedback de los lectores es siempre bienvenido, tanto del libro en general como de los datos en particular. En el mismo repositorio de los datos existe una sección (**Issues**) en la que es posible interactuar con los autores a este respecto.
 
-GitHub limit el espacio para grandes archivos, por eso en el capítulo Extras se debe descargar dos archivos de datos pesados desde Google Drive [aqui](https://drive.google.com/open?id=11wUeNOyG3SX2KqiJFuEmvH9t1IicuYw7). 
+GitHub limita el espacio para grandes archivos, por eso en el capítulo Extras se debe descargar dos archivos de datos pesados desde Google Drive [aqui](https://drive.google.com/open?id=11wUeNOyG3SX2KqiJFuEmvH9t1IicuYw7). 
 
 **Estado de actualización**: *10 de octubre de 2019*
 
@@ -41,7 +41,7 @@ Contacto
 --------
 
 - Dominic Royé: dominic.roye@usc.es, [@dr_xeo](https://twitter.com/dr_xeo), https://dominicroye.github.io/es/
-- Roberto Serrano Notivoli: 
+- Roberto Serrano Notivoli: rserrano@eead.csic.es, https://www.researchgate.net/profile/Roberto_Serrano-Notivoli
 
 
 Referencia
