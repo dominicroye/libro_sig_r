@@ -2,7 +2,7 @@ Datos para acompañar el libro 'Introducción a los SIG con R'
 ================
 
 ### Dominic Royé | Roberto Serrano Notivoli (2019)
-![](portada_libro_sig_r.png)
+![](portada.jpg)
 
 
 
@@ -47,7 +47,7 @@ Contacto
 Referencia
 --------
 
-Royé, D & Serrano Notivoli, R (2019). *Introducción a los SIG con R*. Prensa de la Universidad de Zaragoza. ISBN 978-84-1340-002-0
+#### Royé, D & Serrano Notivoli, R (2019). *Introducción a los SIG con R*. Prensa de la Universidad de Zaragoza. ISBN 978-84-1340-002-0
 
 
-
+![](libro_info.png)
